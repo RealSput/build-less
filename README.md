@@ -1,6 +1,11 @@
 # build-less
 Write C/C++ bindings for Node.js, but with less building
 
+# Installation
+```
+npm i -g build-less
+```
+
 # Purpose
 "build-less" is a tool designed to compile NAPI bindings to plain JavaScript code. 
 
