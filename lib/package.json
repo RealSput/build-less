@@ -1,0 +1,27 @@
+{
+    "name": "@diegab/build-less",
+    "version": "1.0.1",
+    "description": "Write C/C++ bindings for Node.js, but with less building.",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "napi",
+      "cli",
+      "node-gyp"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "gyp-parser": "^1.0.4",
+      "javascript-obfuscator": "^4.0.0"
+    },
+    "bin": {
+      "build-less": "index.js"
+    }
+  }
+  
