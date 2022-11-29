@@ -3,7 +3,7 @@ Write C/C++ bindings for Node.js, but with less building
 
 # Installation
 ```
-npm i -g build-less
+npm i -g @diegab/build-less
 ```
 
 # Purpose
