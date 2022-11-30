@@ -26,7 +26,7 @@ We now have our JavaScript files. But if someone installs our package, their mac
 
 We can fix this by cleaning up our directory, using the "cleanup" command:
 ```
-build-less clean
+build-less cleanup
 ```
 This should ONLY be used when you are ABSOLUTELY done with the project's version. But let's say we want to modify the NAPI module. We can then use the `dirty` subcommand:
 ```
