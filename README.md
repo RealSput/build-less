@@ -8,8 +8,7 @@ npm i -g @diegab/build-less
 
 # Purpose
 "build-less" is a tool designed to compile NAPI bindings to plain JavaScript code. 
-
-This might be useful if you might want to write code with NAPI bindings, but you want to have stable results (because NAPI bindings often do not compile).
+In my opinion, this might not be useful. This is just a toy project I made. But if you do end up finding a use for it, knock yourself out.
 
 # Usage
 Let's start by initiating our project:
